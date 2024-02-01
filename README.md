@@ -51,7 +51,7 @@ $$\ n_x = n_{IS}  *  \frac{C-H_{IS}}{V_{0,IS}}  * \frac{V_{0,x}}{C-H_x} $$
 
 Where V<sub>0</sub> are the time zero intensities predicted by the algorithm for lignin peak and standard peak, C-H<sub>s</sub> is the number of effective carbon bonds of the group of interest (1 for Alpha Polystyrene)
 
-Adapt the analysis part based on the number of peaks you are analyzing: 
+- The analysis part needs to be adapted based on the number of peaks you are analyzing: 
 ```
 V_0 = []
 for p in range (0, x, 1): ): #Adapt this number based on the number x of peaks you fitted
