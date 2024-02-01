@@ -65,7 +65,7 @@ print(V_0)
 
   
 ## 💿 Spectra database
-In the [Data folder](https://pages.github.com/mettre lien github folder),  you can find examples of raw NMR datasets, translated into text files and further analyzed using the algorithm.
+In the [Data folder](https://github.com/cbourmaud/HSCQC0/tree/main/DataBase%20GitHub),  you can find examples of raw NMR datasets, translated into text files and further analyzed using the algorithm.
 Both soluble lignins and whole cell walls samples have been shared.
 
 ## 🌈 Acknowledgements
