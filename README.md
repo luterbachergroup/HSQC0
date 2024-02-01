@@ -7,7 +7,8 @@ ajouter le link publi ici
 
 ![Fig 1](./Fig1.png)
 
-Reliable and reproducible integration is key to ensure a proper understanding and analysis of lignin complex and crowded HSQC spectra. To remove uncertainties related to signal processing, we developed an automatic algorithm to perform signal integration in the ether region. Gaussian lineshapes were applied to fit the HSQC peaks. 
+Reliable and reproducible integration is key to ensure a proper understanding and analysis of lignin complex and crowded HSQC spectra. To remove uncertainties related to signal processing, we developed an automatic algorithm to perform signal integration of HSQC spectra in the ether region. Gaussian lineshapes were applied to fit the 2D peaks. 
+This algorithm is specifically designed for 2D-<sup>1</sup> H - <sup>13</sup> C HSQC<sub>0</sub> spectra, simultaneously performing peak integration and signal extrapolation to zero time where no relaxation has occured.  
 
 ## 📌 Pre-requisite: data conversion
 Each HSQC NMR spectra has to be converted into three text matrices specifying the lists of <sup>1</sup> H chemical shifts, <sup>13</sup> C chemical shifts, and 2D intensities using the [rbnmr](https://www.ibbr.umd.edu/nmrpipe/install.html)  Matlab function developed by Bruker. 
