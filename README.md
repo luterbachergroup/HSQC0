@@ -5,7 +5,7 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2312.13136-b31b1b.svg)](https://arxiv.org/abs/2312.13136) 
 ajouter le link publi ici
 
-![Fig 1](./Fig_1.png)
+![Fig 1](./Fig1.png)
 
 Reliable and reproducible integration is key to ensure a proper understanding and analysis of lignin complex and crowded HSQC spectra. To remove uncertainties related to signal processing, we developed an automatic algorithm to perform signal integration in the ether region. Gaussian lineshapes were applied to fit the HSQC peaks. 
 
