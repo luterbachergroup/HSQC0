@@ -73,17 +73,7 @@ Both soluble lignins and whole cell walls samples have been shared.
 This work was supported as part of NCCR Catalysis (grant number 180544), a National Centre of Competence in Research funded by the Swiss National Science Foundation.
 
 ## 📝 Citation
-If you find our work useful, please consider citing it:
-```bibtex
-@article{,
-  author    = {},
-  title     = {},
-  journal   = {},
-  volume    = {},
-  year      = {2024},
-  url       = {https://}
-}
-```
+If you find our work useful, please consider citing it: https://doi.org/10.1002/anie.202404442 
 
 ## 📫 Contact
 If you have any question, welcome to contact me at:
