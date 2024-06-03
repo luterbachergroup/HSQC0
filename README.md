@@ -28,7 +28,7 @@ m_PS = 7.1 #mass of polystyrene standard in mg
 ```
 data_1 = pd.read_csv('/Users/xxx/Documents/nmr/Birch_1/1/pdata/1/Data.txt', sep='\t', header=None)
 ```
-- Extract your peaks of interest out of the NMR spectra by specifying the region of the spectra where you might find them.
+- Extract your peaks of interest out of the NMR spectra by specifying the region of the spectra where you might find them. In case of strong overlaping in the form of shoulder, a local maxima can be defined where ((middle > top **or** middle > bottom) and (middle > left **or** middle > right) and middle > threshold):
 ```
 ind_PeakX = [] #the peak X is defined
 # the algorithm will them look for peaks (ie. local maxima)
