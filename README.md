@@ -2,8 +2,7 @@
 
 "Quantification of native lignin structural features with gel-phase 2D-<sup>1</sup> H - <sup>13</sup> C Heteronuclear Single Quantum Coherence Nuclear Magnetic Resonance (HSQC-NMR) reveals lignin structural changes during extraction"
 
-[![arXiv](https://img.shields.io/badge/arXiv-2312.13136-b31b1b.svg)](https://arxiv.org/abs/2312.13136) 
-ajouter le link publi ici
+(https://doi.org/10.1002/anie.202404442)
 
 ![Fig 1](./Fig1.png)
 
